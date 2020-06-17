@@ -1,0 +1,19 @@
+{
+  "id" : "8787e046-ac15-4f67-8f38-1ca728320699",
+  "name" : "hello_felice",
+  "request" : {
+    "url" : "/hello/felice",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "hello_felice-8787e046-ac15-4f67-8f38-1ca728320699.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "Date" : "Tue, 16 Jun 2020 22:08:11 GMT"
+    }
+  },
+  "uuid" : "8787e046-ac15-4f67-8f38-1ca728320699",
+  "persistent" : true,
+  "insertionIndex" : 0
+}

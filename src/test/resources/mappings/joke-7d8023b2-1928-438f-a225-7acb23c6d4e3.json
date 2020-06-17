@@ -1,0 +1,19 @@
+{
+  "id" : "7d8023b2-1928-438f-a225-7acb23c6d4e3",
+  "name" : "joke",
+  "request" : {
+    "url" : "/joke",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "joke-7d8023b2-1928-438f-a225-7acb23c6d4e3.json",
+    "headers" : {
+      "Content-Type" : "application/json",
+      "Date" : "Tue, 16 Jun 2020 22:08:11 GMT"
+    }
+  },
+  "uuid" : "7d8023b2-1928-438f-a225-7acb23c6d4e3",
+  "persistent" : true,
+  "insertionIndex" : 1
+}
